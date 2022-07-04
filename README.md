@@ -11,6 +11,8 @@ ___________
 
 __C++:__
 
+Поскольку автор не смог в запуск тестов локально, то на каждое дз/практику создавался новый репозиторий NameChecker -- в нем тестилось решение. Вероятнее всего самое верное решение -- последний коммит, прошедший тесты. 
+
   1. [vector](https://github.com/mavlyut/VectorChecker)
   1. [bigint](https://github.com/mavlyut/BigIntChecker)
   1. [socow_vector](https://github.com/mavlyut/SocowVectorChecker)
