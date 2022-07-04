@@ -2,7 +2,7 @@
 
   [__Дискретка__](https://github.com/mavlyut/dm-labs-itmo)
   
-  [__Java__](https://github.com/mavlyut/Prog-intro)
+  [__Prog-intro__](https://github.com/mavlyut/Prog-intro)
 
   [__Paradigms__](https://github.com/mavlyut/Paradigms)
 
